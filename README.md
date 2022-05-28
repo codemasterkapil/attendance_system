@@ -1,6 +1,6 @@
 # smart_attendance_system
 
-![Flowchart](readme_flowchart.png)
+![Flowchart](readme_images/readme_flowchart.png)
 
 ## Pre-requisites
 - Flask
@@ -23,7 +23,7 @@ To install numpy
 pip install numpy
 ```
 #### Note : To run the project, run the app.py in terminal
-![Way to Run the app.py](Readme_3.png)
+![Way to Run the app.py](readme_images/Readme_3.png)
 
 ## Steps to set it up, to recognise your face
 - Add your image in the training dataset.
@@ -33,4 +33,4 @@ pip install numpy
 - Then add your actual name to the **known_face_names** List.
 - Then run the application as mentioned above and enjoy the process ☺️.
 
-![Code to be changed](Readme_Changes.png)
+![Code to be changed](readme_images/Readme_Changes.png)
